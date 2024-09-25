@@ -1,7 +1,7 @@
 # Violating Local Friendliness
 This repository is a work in progress database of research on Wigner's Friend and Local Friendliness. There are many missing! Please do add suggestions.
 
-Please open a pull request if you'd like to add a new paper. We prefer open access links.
+Please [open a pull request if you'd like to add a new paper](https://github.com/unitaryfund/localfriendliness/edit/main/README.md). We prefer open access links.
 
 ## Experiments
 Some experimental papers also have theoretical results. In chronological order.
