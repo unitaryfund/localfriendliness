@@ -14,6 +14,7 @@ Some experimental papers also have theoretical results. In chronological order.
 Papers that are just theory with no experiments. In chronological order.
 | Date | Title | Authors | Link |
 |-----------------|-----------------|------------------|-----------------|
+| 26 September 2024 | Relating Wigner’s Friend Scenarios to Nonclassical Causal Compatibility, Monogamy Relations, and Fine Tuning | Yìlè Yīng, Marina Maciel Ansanelli, Andrea Di Biagio, Elie Wolfe, David Schmid, and Eric Gama Cavalcanti | 	https://doi.org/10.22331/q-2024-09-26-1485
 | 29 July 2024 | Local Friendliness Polytopes In Multipartite Scenarios | Marwan Haddara and Eric G. Cavalcanti | https://arxiv.org/abs/2407.20346 |
 | 13 February 2024 | Thinking twice inside the box: is Wigner's friend really quantum? | Caroline L. Jones and Markus P. Mueller | https://arxiv.org/abs/2402.08727 |
 | 14 September 2023 | A “thoughtful” Local Friendliness no-go theorem: a prospective experiment with new assumptions to suit | Howard M. Wiseman, Eric G. Cavalcanti, and Eleanor G. Rieffel | https://quantum-journal.org/papers/q-2023-09-14-1112/ |
