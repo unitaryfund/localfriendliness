@@ -19,8 +19,10 @@ Papers that are just theory with no experiments. In reverse chronological order.
 | 9 September 2024 | A refined Frauchiger–Renner paradox based on strong contextuality | Laurens Walleghem and Rui Soares Barbosa and Matthew Pusey and Stefan Weigert | https://arxiv.org/abs/2409.05491 |
 | 29 July 2024 | Local Friendliness Polytopes In Multipartite Scenarios | Marwan Haddara and Eric G. Cavalcanti | https://arxiv.org/abs/2407.20346 |
 | 13 February 2024 | Thinking twice inside the box: is Wigner's friend really quantum? | Caroline L. Jones and Markus P. Mueller | https://arxiv.org/abs/2402.08727 |
+| 14 September 2023 | Extended Wigner's friend paradoxes do not require nonlocal correlations | Laurens Walleghem, Rafael Wagner, Yìlè Yīng, David Schmid | https://arxiv.org/abs/2310.06976 |
 | 14 September 2023 | A “thoughtful” Local Friendliness no-go theorem: a prospective experiment with new assumptions to suit | Howard M. Wiseman, Eric G. Cavalcanti, and Eleanor G. Rieffel | https://quantum-journal.org/papers/q-2023-09-14-1112/ |
 | 13 September 2023 | A possibilistic no-go theorem on the Wigner's friend paradox | Marwan Haddara and Eric Cavalcanti | https://iopscience.iop.org/article/10.1088/1367-2630/aceea3/meta |
+| 30 August 2023 | A review and analysis of six extended Wigner's friend arguments | David Schmid, Yìlè Yīng, Matthew Leifer | https://arxiv.org/abs/2308.16220 |
 | 24 May 2023 | Wigner's friend's memory and the no-signaling principle | Veronika Baumann and Časlav Brukner | https://arxiv.org/abs/2305.15497 |
 | 24 February 2023 | Friendly thoughts on thoughtful friendliness | Adrian Kent | https://arxiv.org/abs/2302.12707 |
 | 24 August 2022 | Events in quantum mechanics are maximally non-absolute | George Moreno, Ranieri Nery, Cristhiano Duarte, and  Rafael Chaves | https://quantum-journal.org/papers/q-2022-08-24-785/ |
