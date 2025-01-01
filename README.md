@@ -26,6 +26,7 @@ Papers that are just theory with no experiments. In reverse chronological order.
 | 24 May 2023 | Wigner's friend's memory and the no-signaling principle | Veronika Baumann and Časlav Brukner | https://arxiv.org/abs/2305.15497 |
 | 24 February 2023 | Friendly thoughts on thoughtful friendliness | Adrian Kent | https://arxiv.org/abs/2302.12707 |
 | 24 August 2022 | Events in quantum mechanics are maximally non-absolute | George Moreno, Ranieri Nery, Cristhiano Duarte, and  Rafael Chaves | https://quantum-journal.org/papers/q-2022-08-24-785/ |
+| 08 July 2021 | Quantum erasing the memory of Wigner’s friend | Cyril Elouard, Philippe Lewalle, Sreenath K. Manikandan, Spencer Rogers, Adam Frank, and Andrew N. Jordan | https://quantum-journal.org/papers/q-2021-07-08-498 |
 | 20 March 2021     | The View from a Wigner Bubble | Eric Cavalcanti | https://link.springer.com/article/10.1007/s10701-021-00417-0 |
 | 29 April 2018     | A No-Go Theorem for Observer-Independent Facts | Časlav Brukner | https://www.mdpi.com/1099-4300/20/5/350 |
 
